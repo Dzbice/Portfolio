@@ -12,7 +12,7 @@ body {
 
   .hero {
     height:40vh;
-    background: url("i0s0tcub.bmp");
+    background: url("../Resources/i0s0tcub.bmp");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
